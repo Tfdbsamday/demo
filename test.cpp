@@ -3,7 +3,7 @@
 int main()
 {
     printf("Hello World\n");
+    printf("你好");
     system("pause");
     return 0;
 }
-nihao
